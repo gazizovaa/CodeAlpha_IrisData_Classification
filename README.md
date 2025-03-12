@@ -6,3 +6,5 @@
 3. Renamed columns
 4. Solved imbalanced problem
 5. Built a baseline model with Logistic Regression Classification algorithm
+6. Built RandomForestClassifier and Support Vector Classification models
+7. Added correlation matrix
